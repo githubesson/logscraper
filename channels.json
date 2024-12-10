@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Boxed.Pw",
+    "link": "https://t.me/+lTv-USNAHHIwODE6",
+    "id": -1001935880746,
+    "type": "archive",
+    "regex": ".pass: (.*?)(?:\n|$)"
+  }
+]
