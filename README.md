@@ -18,6 +18,7 @@ This project is a Telegram channel monitoring tool that automatically downloads 
 
 2. Install dependencies:
     ```sh
+    sudo apt install ripgrep
     pip3 install -r requirements.txt
     pip3 install readline 
     !! WARNING !! this wont work on windows, and you shouldnt run this project on windows. any issues about this will be closed.
